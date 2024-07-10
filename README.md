@@ -1,6 +1,7 @@
 
 # Medication Reminder App
-The Medication Reminder App helps caretakers (doctors and nurses) manage medications for their patients efficiently. Patients can also use the app to track their medications and receive timely reminders.
+The Medication Reminder App helps caretakers (doctors and nurses) manage medications for their patients efficiently 
+. Patients can also use the app to track their medications and receive timely reminders.
 # These are some of the User Stories we are to implement
 # User Registration
 •	As a new user, I want to register with my name, email/phone number, and username.
